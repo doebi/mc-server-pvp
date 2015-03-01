@@ -11,7 +11,7 @@ function Initialize(Plugin)
     -- Command Bindings
 
     LOG("Initialised " .. Plugin:GetName() .. " v." .. Plugin:GetVersion())
-    LOG("Hello World")
+    LOG("Oh Gawd, my very first Plugin!")
     return true
 end
 
